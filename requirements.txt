@@ -1,0 +1,9 @@
+streamlit
+openai
+langchain==0.1.14
+faiss-cpu
+tiktoken
+python-dotenv
+unstructured
+beautifulsoup4
+html5lib
