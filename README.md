@@ -29,7 +29,7 @@ An intelligent **Retrieval-Augmented Generation (RAG)** assistant built with **S
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Manishkumarsingh41/brainwave-rag-app.git
+git remote add origin https://github.com/AbhinandanGulshetty/brainwave-rag-app.git
 cd brainwave-rag-app
 ```
 
@@ -77,9 +77,9 @@ streamlit run app.py
 
 ## 🙋‍♂️ About Me
 
-**Manish Kumar Singh**  
+**Abhinandan Gulshetty**  
 📍 B.E. in Artificial Intelligence & Data Science (RNSIT, Bengaluru)  
-🔗 [Portfolio](https://iammanishsinghrajput.netlify.app/) • [GitHub](https://github.com/Manishkumarsingh41) • [LinkedIn](https://linkedin.com/in/manish-kumar-singh-5a8162214/)
+🔗 [GitHub](https://github.com/AbhinandanGulshetty) • [LinkedIn](https://www.linkedin.com/in/abhinandan-gulshetty-073548264/)
 
 ---
 
