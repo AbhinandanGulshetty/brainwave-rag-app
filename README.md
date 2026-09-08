@@ -4,11 +4,6 @@ An intelligent **Retrieval-Augmented Generation (RAG)** assistant built with **S
 
 > "Give your documents a brain — Ask questions, get instant answers!"
 
----
-
-🔗 **[🚀 Live Demo Here](https://brainwaverag.streamlit.app/)** (no setup needed!)
-
----
 
 ## 🔍 Features
 
@@ -46,9 +41,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
-### OR Just Use the Web Version  
-🔗 **[Click here for the live app →](https://brainwaverag.streamlit.app/)**
 
 ---
 
