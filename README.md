@@ -24,7 +24,7 @@ An intelligent **Retrieval-Augmented Generation (RAG)** assistant built with **S
 ### 1. Clone the repo
 
 ```bash
-git remote add origin https://github.com/AbhinandanGulshetty/brainwave-rag-app.git
+git clone https://github.com/AbhinandanGulshetty/brainwave-rag-app.git
 cd brainwave-rag-app
 ```
 
